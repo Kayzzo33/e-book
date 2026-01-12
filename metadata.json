@@ -1,0 +1,7 @@
+{
+  "name": "Sozinha, Mas Não Sem Caminhos",
+  "description": "Uma Landing Page premium de alta conversão para o eBook transformador voltado para mães solo, focada em reconstrução de dignidade e estabilidade financeira.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
